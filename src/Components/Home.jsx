@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/Python.jpg";
 
-const imageAltText = "A screen showing a Python code editor.";
+const imageAltText = "A screen showing a Python code editor."
 
 const Home = ({ name, title }) => {
   return (
