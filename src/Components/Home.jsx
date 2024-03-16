@@ -22,9 +22,9 @@ import PropTypes from "prop-types";
  */
 import image from "../images/Python.jpg";
 
-const imageAltText = "A screen showing a Python code editor."
+const imageAltText = "A screen showing a Python code editor.";
 
-const Home = ({ name, title }) => {
+function Home({ name, title }) {
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
@@ -37,7 +37,7 @@ const Home = ({ name, title }) => {
       </div>
     </section>
   );
-};
+}
 
 Home.defaultProps = {
   name: "",
