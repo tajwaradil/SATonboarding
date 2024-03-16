@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Accounting & Finance scholar studying at Institute of Business Administration Karachi. I enjoy simplifying complex financial concepts and presenting them in easily understandable explanations.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Financial Analysis",
+  "Financial Modelling",
+  "Python Programming",
+  "Data Visualisation for Finance",
+  "User Experience",
+  "Digital Marketing",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Driven by the challenge of creatively solving complex problems in the world of accounting and finance, I leverage my skills to make a tangible difference. Whether it's simplifying financial concepts, designing intuitive financial tools, or crafting data-driven models, my passion lies in transforming financial data into actionable insights that empower informed decision-making."
 
 const About = () => {
   return (
